@@ -1,0 +1,5 @@
+﻿packages/
+bin/
+obj/
+.idea/
+ArtifactManager/Migrations/
